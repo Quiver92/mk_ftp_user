@@ -4,7 +4,7 @@
 menu(){
 tput clear
 tput setaf 3
-echo "Grupa Prawna Koksztys"
+echo "Grupa Prawna"
 tput sgr0
 
 
